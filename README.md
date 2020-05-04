@@ -1,5 +1,5 @@
 # yolov3-vehicle-detection-paddle
-vehicle-detection based on yolov3（基于paddle的YOLOv3车辆检测）
+vehicle-detection based on yolov3（基于paddle的YOLOv3车辆检测和车辆类型识别）
 
 更多项目信息请关注我的博客：https://blog.csdn.net/weixin_44936889
 
@@ -27,3 +27,4 @@ python demo.py
 '''
 python demo_video.py
 '''
+![image](https://github.com/Sharpiless/yolov3-vehicle-detection-paddle/blob/master/result.png)
