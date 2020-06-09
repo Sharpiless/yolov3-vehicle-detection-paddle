@@ -1,4 +1,7 @@
 # yolov3-vehicle-detection-paddle
+
+我的博客地址：https://blog.csdn.net/weixin_44936889
+
 vehicle-detection based on yolov3（基于paddle的YOLOv3车辆检测和车辆类型识别）
 今天我们使用 Paddle 开源的两个工具：PaddleDetection 和 X2Paddle 来进行一个车辆检测和类型识别的小demo~
 
